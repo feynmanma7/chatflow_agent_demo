@@ -1,4 +1,4 @@
-DIFY_URL = "http://192.168.3.133/v1/chat-messages"
+DIFY_URL = "http://192.168.43.59/v1/chat-messages"
 
 DIFY_API_KEY = "app-1pkTwJrxNZVJ0AJB8jNeeJ9S"
 
